@@ -105,14 +105,14 @@ class Config(config.Config):
         Return the main application icon.
         """
         return QIcon(
-            _pixmap_from_pkg_data(__package__, "icons/orange-256.png", "png")
+            _pixmap_from_pkg_data(__package__, "icons/radyaai.png", "png")
         )
 
     @staticmethod
     def splash_screen():
-        splash_n = random.randint(1, 3)
+        splash_n = random.randint(1, 1)
         pm = _pixmap_from_pkg_data(
-            __name__, f"icons/orange-splash-screen-{splash_n:02}.png", "png"
+            __name__, f"icons/radya-splash-screen-{splash_n:02}.png", "png"
         )
 
         version = Config.ApplicationVersion
