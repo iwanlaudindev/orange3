@@ -13,7 +13,7 @@ ID = "orange.widgets.unsupervised"
 
 DESCRIPTION = "Unsupervised learning."
 
-BACKGROUND = "#CAE1EF"
+BACKGROUND = "#323232"
 
 ICON = "icons/Category-Unsupervised.svg"
 

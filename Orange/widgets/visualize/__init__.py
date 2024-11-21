@@ -13,7 +13,7 @@ ID = "orange.widgets.visualize"
 
 DESCRIPTION = "Data visualization"
 
-BACKGROUND = "#FFB7B1"
+BACKGROUND = "#323232"
 
 ICON = "icons/Category-Visualize.svg"
 

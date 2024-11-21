@@ -28,7 +28,7 @@ def widget_discovery(discovery):
         CategoryDescription(
             name="Transform",
             priority=1,
-            background="#FF9D5E",
+            background="#323232",
             icon="data/icons/Transform.svg",
             package=__package__,
         )

@@ -13,7 +13,7 @@ ID = "orange.widgets.model"
 
 DESCRIPTION = "Prediction"
 
-BACKGROUND = "#FAC1D9"
+BACKGROUND = "#323232"
 
 ICON = "icons/Category-Model.svg"
 

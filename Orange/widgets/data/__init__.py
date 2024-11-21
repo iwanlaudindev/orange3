@@ -15,6 +15,6 @@ DESCRIPTION = """Data manipulation"""
 
 ICON = "icons/Category-Data.svg"
 
-BACKGROUND = "#FFD39F"
+BACKGROUND = "#323232"
 
 PRIORITY = 1
